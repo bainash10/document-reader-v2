@@ -1,0 +1,7 @@
+Flask
+langchain
+faiss-cpu
+pdfplumber
+sentence-transformers
+transformers
+torch
